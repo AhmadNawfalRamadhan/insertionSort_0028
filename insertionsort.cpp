@@ -31,3 +31,15 @@
         cin >> arr[i];
     }
  }
+
+ void insertionSort()
+ {
+
+    int temp;
+    int j, i;
+
+    for (i = 1; i <= n - 1; i++)
+    {
+        
+    }
+ }
